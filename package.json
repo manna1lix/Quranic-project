@@ -1,0 +1,15 @@
+{
+  "name": "quranic-project",
+  "version": "1.0.0",
+  "description": "this repository for a small website to collect data for a quranic recitation correction",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.11.1"
+  }
+}
